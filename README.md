@@ -6,6 +6,10 @@ Rodzon has 20 years of IT experience. My responsibility is on Implementation, Ar
 
 ### Competencies
 - Cloud Computing (On-premise, AWS, GCP and Azure Cloud)
+- DevOps workflow CICD, Jenkins, AWS CodePipeline, Github
+- Terraform, Kubernetes, Ansible, Docker
+- Tools : JIRA and Confluence
+- Monitoring : Splunk and Zabbix
 - SDDC Build
 - Design and build Hybrid Cloud,
 - Cloud Automation (Automated VM Provisioning, App installation)
