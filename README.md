@@ -1,4 +1,20 @@
-### Hi there 👋
+### Welcome to Road Zone !
+
+### Professionanl Summary
+I graduated as BS Computer Engineer at Adamson University.
+Rodzon has 20 years of IT experience. My responsibility is on Implementation, Architecture, Upgrade & Migration, Design and Maintenance.
+
+### Competencies
+- Cloud Computing (On-premise, AWS, GCP and Azure Cloud)
+- SDDC Build
+- Design and build Hybrid Cloud,
+- Cloud Automation (Automated VM Provisioning, App installation)
+- Virtualization Build (vSphere, Hyper-V )
+- Infrastructure Integration
+- Troubleshooting
+- VMWare vRealize Design and Build. (vRealize Operations Manager, vRealize Orchestrator, vRealize Automation)
+
+Certification: AIX, AWS Solution Architect Associate, VMware CMA, ITIL v3, Mendix Rapid Developer
 
 <!--
 **Rodzon-cloud/Rodzon-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
