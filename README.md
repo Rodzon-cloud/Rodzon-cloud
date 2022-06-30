@@ -25,10 +25,11 @@ Rodzon has 20 years of IT professional experience. My responsibility is on Imple
  - Design and build Hybrid Cloud
  - VMware SDDC build and HCX Tunnels
  - OS Installaton, Patching, Upgrade and Maintenance
- - Rhel, Linux, AIX, LPARs, VIOS, HPUX Administration
+ - Redhat-Linux, AIX, LPARs, VIOS, HPUX Administration
  - Server Build (Proliant, Blade, Lenovo, IBM pSeries/PowerVM)
  - Troubleshooting
  - Networking
+ - ITIL Process
 
 ### Competencies in mySQL and Test Engineer (1 year)
  - Managing MySQL contents and Test-scenarios for the contents
