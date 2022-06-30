@@ -5,7 +5,7 @@ I graduated as BS Computer Engineer at Adamson University.
 Rodzon has 20 years of IT professional experience. My responsibility is on Implementation, Architecture, Upgrade & Migration, Design and Maintenance.
 
 ### Competencies in DevOps/ Cloud Engineer ( 3 years)
- - Cloud Computing (On-premise, AWS, GCP and Azure Cloud)
+ - Cloud Computing (AWS, GCP and Azure Cloud)
  - DevOps workflow CICD, Jenkins, AWS CodePipeline, Github
  - Terraform, Kubernetes, Ansible, Docker
  - Tools : JIRA and Confluence
