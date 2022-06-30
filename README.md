@@ -34,7 +34,7 @@ Rodzon has 20 years of IT professional experience. My responsibility is on Imple
 ### Competencies in mySQL and Test Engineer (1 year)
  - Managing MySQL contents and Test-scenarios for the contents
 
-#### Certifications: 
+### Certifications: 
     AWS Solution Architect Associate, Azure DevOps, VMware CMA, ITIL v3, Mendix Rapid Developer, AIX 7.1
   - https://www.linkedin.com/in/rodzon-limjap-8053a5193/
 
