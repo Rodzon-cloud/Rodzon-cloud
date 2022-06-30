@@ -18,8 +18,9 @@ Rodzon has 20 years of IT experience. My responsibility is on Implementation, Ar
 - Troubleshooting
 - VMWare vRealize Design and Build. (vRealize Operations Manager, vRealize Orchestrator, vRealize Automation)
 
-Certifications: AIX, AWS Solution Architect Associate, VMware CMA, ITIL v3, Mendix Rapid Developer
-- https://www.linkedin.com/in/rodzon-limjap-8053a5193/
+Certifications: 
+    AWS Solution Architect Associate, Azure X2 , VMware CMA, ITIL v3, Mendix Rapid Developer, AIX 7.1 and HPIX 11.00
+  - https://www.linkedin.com/in/rodzon-limjap-8053a5193/
 
 <!--
 **Rodzon-cloud/Rodzon-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
